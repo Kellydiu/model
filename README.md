@@ -1,2 +1,0 @@
-# model
-Created with CodeSandbox
